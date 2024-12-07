@@ -1,0 +1,28 @@
+
+
+#home-container-id {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+
+#select-language-button-id {
+  margin-right: -6px;
+  font-size: 14px;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 5px;
+  padding: 4px 7.5px;
+}
+
+#chevron-button-id {
+  margin-right: 8px;
+  font-size: 11px;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 3px;
+  padding: 4px 7.5px;
+}
